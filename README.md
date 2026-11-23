@@ -1,3 +1,5 @@
+**Abandoned and archived in favor of [MaCWorP v2 Rust reimplementation](https://github.com/cubimedrub/macworp/tree/dev)**
+
 # NF-Cloud v2 based on FastAPI
 
 ## How to
